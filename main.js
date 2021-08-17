@@ -136,10 +136,10 @@
 
 // function getLongerPrintShorter(stringOne, stringTwo){
 //     if(stringOne.length > stringTwo.length){
-//         console.log(stringTwo);
+//         console.log(stringTwo.toLowerCase());
 //         return stringOne;
 //     }
-//     console.log(stringOne);
+//     console.log(stringOne.toLowerCase());
 //     return stringTwo;
 // }
 
